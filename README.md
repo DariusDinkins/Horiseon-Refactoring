@@ -3,7 +3,7 @@
 
 > **Important**: When working with someone else's code, you should adhere to the **Scout Rule**&mdash;always leave the code a little cleaner than when I found it.
 
-An increasingly important consideration for businesses, web **accessibility** ensures that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards. Accessibility is good for business&mdash;for one thing, accessible sites rank higher in search engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
+An increasingly important consideration for businesses, web **accessibility** ensures that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards. Accessibility is good for business&mdash;for one thing, accessible sites rank higher in search engines like Google. Accessibility is important to assure all people can use the site. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
 
 Accessibility can include complex requirements, but my tech lead has given me a small list of specific criteria for this project. These criteria are documented in the Acceptance Criteria section.
 
